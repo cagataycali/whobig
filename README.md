@@ -4,4 +4,4 @@
 
 * Works in only linux.
 
-* Simple is best.
+* Simple is the best.
