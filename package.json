@@ -1,6 +1,6 @@
 {
   "name": "whobig",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Which files are bigger in current directory",
   "main": "index.js",
   "dependencies": {
