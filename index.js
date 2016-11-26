@@ -5,8 +5,8 @@ const colors = require('colors');
 console.log("Bigger is better :))");
 E(`du -hsx * | sort -rh | head -10`)
   .then((output) => {
-    colors.green(output)
+    console.log(colors.green(output));
   })
   .catch((err) => {
-    colors.red(err)
+    console.log(colors.red(err));
   })
