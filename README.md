@@ -4,8 +4,12 @@
 
 * Simple is the best.
 
-# Install
+**Install**
 
- ```
-[sudo] npm i -g whobig
- ```
+```
+npm i -g whobig
+```
+
+**ScreenShot**
+
+![img](./whobig.png)
